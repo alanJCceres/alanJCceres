@@ -1,5 +1,3 @@
-alanJCceres/README.md  
-
 ![Backend](https://img.shields.io/badge/Focus-Backend-green)
 ![Fullstack](https://img.shields.io/badge/Role-Fullstack-blue)
 ![Mobile](https://img.shields.io/badge/Experience-Mobile-purple)
